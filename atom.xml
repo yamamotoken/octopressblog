@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Mein Test Blog]]></title>
   <link href="http://yamamotoken.github.com/octopressblog/atom.xml" rel="self"/>
   <link href="http://yamamotoken.github.com/octopressblog/"/>
-  <updated>2013-03-26T18:23:33+01:00</updated>
+  <updated>2013-03-26T18:52:29+01:00</updated>
   <id>http://yamamotoken.github.com/octopressblog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ich raffs net]]></title>
+    <link href="http://yamamotoken.github.com/octopressblog/blog/2013/03/26/ich-raffs-net/"/>
+    <updated>2013-03-26T18:49:00+01:00</updated>
+    <id>http://yamamotoken.github.com/octopressblog/blog/2013/03/26/ich-raffs-net</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+]]></content>
+  </entry>
   
 </feed>
