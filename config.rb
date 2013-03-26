@@ -4,10 +4,10 @@ require 'sass-globbing'
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/octopressblog/"
+http_images_path = "/octopressblog/images"
+http_fonts_path = "/octopressblog/fonts"
+css_dir = "public/octopressblog/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
